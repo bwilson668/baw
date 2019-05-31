@@ -50,7 +50,7 @@
 
         @include('_nav.menu-responsive')
 
-        <main role="main" class="flex-auto w-full container max-w-xl mx-auto py-16 px-6">
+        <main id="body" role="main" class="flex-auto w-full container max-w-xl mx-auto py-16 px-6">
             @yield('body')
         </main>
 

@@ -2,6 +2,8 @@ window.axios = require('axios');
 window.fuse = require('fuse.js');
 window.Vue = require('vue');
 
+import vb from 'vue-babylonjs';
+import Animation from './components/Animation.vue';
 import Search from './components/Search.vue';
 import hljs from 'highlight.js/lib/highlight';
 
@@ -22,9 +24,17 @@ document.querySelectorAll('pre code').forEach((block) => {
 
 Vue.config.productionTip = false;
 
+Vue.use(vb);
+
 new Vue({
     components: {
         Search,
     },
 }).$mount('#vue-search');
+
+new Vue({
+    components: {
+        Animation,
+    },
+}).$mount('#body')
 

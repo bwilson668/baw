@@ -11,7 +11,7 @@ categories: []
 
 - [ ] Setup Timescale DB on Azure or AWS
 - [ ] Setup GraphQL and Serverless API layer - https://mybuild.techcommunity.microsoft.com/sessions/77145
-- [ ] 3D WebGL Vue Model - https://vue-babylonjs.com/#/home
+- [x] 3D WebGL Vue Model - https://vue-babylonjs.com/#/home
 
 # Style
 
