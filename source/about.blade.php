@@ -11,8 +11,10 @@
     <h1>About</h1>
 
     <img src="/assets/img/about.png"
-        alt="About image"
-        class="flex rounded-full h-64 w-64 bg-contain mx-auto md:float-right my-6 md:ml-10">
+        alt="About Ben Wilson"
+        class="flex rounded-lg w-64 mx-auto md:float-left my-6 md:my-2 md:mr-10">
+
+    <p class="mb-6 font-semibold">Hey! Welcome to my little corner of the web.</p>
 
     <p class="mb-6">This is where you can give a little more information about yourself or site. If you'd like to change the structure of this page, you can find the file at <code>source/about.blade.php</code></p>
 
