@@ -227,6 +227,10 @@ fonts: {
     'Liberation Mono',
     'Courier New',
     'monospace',
+  ],
+  'display': [
+    'Damion',
+    'cursive'
   ]
 },
 
