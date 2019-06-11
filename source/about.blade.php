@@ -21,4 +21,7 @@
     <p class="mb-6">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum officia dolorem accusantium veniam quae, possimus, temporibus explicabo magni voluptas. fugit natus deserunt atque veniam possimus earum harum itaque est!</p>
 
     <p class="mb-6">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum officia dolorem accusantium veniam quae, possimus, temporibus explicabo magni voluptas. fugit natus deserunt atque veniam!</p>
+
+    <p class="mb-0">Cheers,</p>
+    <p class="mb-6 mt-0 font-display font-semibold text-3xl">Benjamin A. Wilson</p>
 @endsection
