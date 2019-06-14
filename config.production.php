@@ -1,6 +1,6 @@
 <?php
 
 return [
-    'baseUrl' => 'https://6DLabs.com',
+    'baseUrl' => 'https://benjaminandrewwilson.com',
     'production' => true,
 ];

@@ -14,6 +14,11 @@ return [
             'sort' => '-date',
             'path' => 'blog/{filename}',
         ],
+        'reviews' => [
+            'author' => 'Ben Wilson', // Default author, if not provided in a post
+            'sort' => '-date',
+            'path' => 'review/{filename}',
+        ],
         'categories' => [
             'path' => '/blog/categories/{filename}',
             'posts' => function ($page, $allPosts) {
