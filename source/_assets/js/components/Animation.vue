@@ -10,7 +10,7 @@
     </Animation>
     <!-- <Animation property="rotation.y" :duration="5" :end="Math.PI * 2"></Animation> -->
     <!-- <Animation property="rotation.z" :duration="5" :end="Math.PI * 2"></Animation> -->
-    <!-- <PointLight diffuse="#FF0000"></PointLight> -->
+    <PointLight diffuse="#FF0000"></PointLight>
     <Box v-for="(position, key) in boxes" :key="key" :position="position"></Box>
   </Entity>
 </Scene>

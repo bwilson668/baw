@@ -28,11 +28,11 @@
     </head>
 
     <body class="flex flex-col justify-between min-h-screen bg-grey-lightest text-grey-darkest leading-normal font-sans">
-        <header class="flex items-center shadow bg-white border-b h-24 py-4" role="banner">
+        <header class="flex items-center shadow bg-blue-darkest border-y h-24 py-4 my-4" role="banner">
             <div class="container flex items-center max-w-4xl mx-auto px-4 lg:px-8">
                 <div class="flex items-center">
                     <a href="/" title="{{ $page->siteName }} home" class="inline-flex items-center">
-                        <h1 class="font-display text-xl md:text-2xl text-blue-darkest font-semibold hover:text-blue-dark my-0">{{ $page->siteName }}</h1>
+                        <h1 class="font-display text-xl md:text-2xl text-blue-lighter font-semibold hover:text-blue-light my-0">{{ $page->siteName }}</h1>
                     </a>
                 </div>
 
