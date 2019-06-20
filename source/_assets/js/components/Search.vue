@@ -10,7 +10,7 @@
                 id="search"
                 v-model="query"
                 ref="search"
-                class="transition-fast relative block h-10 w-full lg:w-1/2 lg:focus:w-3/4 bg-grey-lightest border border-grey focus:border-primary-6 outline-none cursor-pointer text-grey-darker px-4 pb-0"
+                class="transition-fast relative block h-10 w-full lg:w-1/2 lg:focus:w-3/4 bg-neutral-10 border border-grey focus:border-primary-6 outline-none cursor-pointer text-neutral-1 px-4 pb-0"
                 :class="{ 'transition-border': query }"
                 autocomplete="off"
                 name="search"
@@ -40,7 +40,7 @@
                         >
                             {{ result.title }}
 
-                            <span class="block font-normal text-grey-darker text-sm my-1" v-html="result.snippet"></span>
+                            <span class="block font-normal text-neutral-3 text-sm my-1" v-html="result.snippet"></span>
                         </a>
 
                         <div

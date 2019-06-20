@@ -19,12 +19,12 @@ blockquote {
     @apply .italic;
     @apply .my-8;
     @apply .pl-6;
-    @apply .text-grey-darker;
+    @apply .text-neutral-3;
     @apply .text-lg;
 }
 
 code {
-    @apply .bg-grey-light;
+    @apply .bg-neutral-10;
     @apply .px-2;
     @apply .py-px;
     @apply .rounded;
@@ -117,7 +117,7 @@ p {
 }
 
 pre {
-    @apply .bg-grey-lighter;
+    @apply .bg-neutral-10;
     @apply .leading-loose;
     @apply .my-6;
     @apply .overflow-x-auto;

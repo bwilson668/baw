@@ -666,12 +666,12 @@ blockquote {
   margin-top: 2rem;
   margin-bottom: 2rem;
   padding-left: 1.5rem;
-  color: #606f7b;
+  color: #334e68;
   font-size: 1.125rem;
 }
 
 code {
-  background-color: #e2e8ee;
+  background-color: #f0f4f8;
   padding-left: .5rem;
   padding-right: .5rem;
   padding-top: 1px;
@@ -776,7 +776,7 @@ p {
 }
 
 pre {
-  background-color: #ecf0f3;
+  background-color: #f0f4f8;
   line-height: 1.75;
   margin-top: 1.5rem;
   margin-bottom: 1.5rem;
@@ -804,7 +804,7 @@ pre code {
 }
 
 .nav-menu {
-  background-color: #ecf0f3;
+  background-color: #bcccdc;
   padding-bottom: .5rem;
   padding-top: 1.5rem;
   padding-left: .5rem;
@@ -820,7 +820,7 @@ pre code {
   text-decoration: none;
   margin-bottom: 1rem;
   margin-top: 0;
-  color: #606f7b;
+  color: #243b53;
   font-size: .925rem;
 }
 
@@ -833,7 +833,7 @@ pre code {
   float: left;
   font-weight: 600;
   padding: 0;
-  color: #606f7b;
+  color: #243b53;
   clear: both;
 }
 
@@ -854,7 +854,7 @@ pre code {
   margin-bottom: 1.5rem;
   font-size: 1.5rem;
   text-align: center;
-  color: #3e4852;
+  color: #102a43;
 }
 
 .mc-field-group input {
