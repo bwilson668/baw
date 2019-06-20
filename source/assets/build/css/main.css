@@ -651,15 +651,15 @@ body {
 a {
   font-weight: 600;
   text-decoration: none;
-  color: #0174d4;
+  color: #186faf;
 }
 
 a:hover {
-  color: #1a4d8c;
+  color: #0a558c;
 }
 
 blockquote {
-  border-color: #6cb2eb;
+  border-color: #62b0e8;
   border-left-width: 4px;
   font-weight: 400;
   font-style: italic;
@@ -745,7 +745,7 @@ h6 {
 
 hr {
   border-bottom-width: 1px;
-  border-color: #bcdefa;
+  border-color: #84c5f4;
   margin-top: 3rem;
   margin-bottom: 3rem;
   border-radius: 9999px;
@@ -901,7 +901,7 @@ pre code {
 }
 
 #mc-embedded-subscribe:hover {
-  background-color: #0174d4;
+  background-color: #0f609b;
 }
 
 @media (min-width: 768px) {
@@ -1310,7 +1310,7 @@ pre code {
 }
 
 .bg-neutral-2 {
-  background-color: #24eb53;
+  background-color: #243b53;
 }
 
 .bg-neutral-3 {
@@ -1802,7 +1802,7 @@ pre code {
 }
 
 .hover\:bg-neutral-2:hover {
-  background-color: #24eb53;
+  background-color: #243b53;
 }
 
 .hover\:bg-neutral-3:hover {
@@ -2294,7 +2294,7 @@ pre code {
 }
 
 .focus\:bg-neutral-2:focus {
-  background-color: #24eb53;
+  background-color: #243b53;
 }
 
 .focus\:bg-neutral-3:focus {
@@ -2858,7 +2858,7 @@ pre code {
 }
 
 .border-neutral-2 {
-  border-color: #24eb53;
+  border-color: #243b53;
 }
 
 .border-neutral-3 {
@@ -3350,7 +3350,7 @@ pre code {
 }
 
 .hover\:border-neutral-2:hover {
-  border-color: #24eb53;
+  border-color: #243b53;
 }
 
 .hover\:border-neutral-3:hover {
@@ -3842,7 +3842,7 @@ pre code {
 }
 
 .focus\:border-neutral-2:focus {
-  border-color: #24eb53;
+  border-color: #243b53;
 }
 
 .focus\:border-neutral-3:focus {
@@ -7299,7 +7299,7 @@ pre code {
 }
 
 .text-neutral-2 {
-  color: #24eb53;
+  color: #243b53;
 }
 
 .text-neutral-3 {
@@ -7791,7 +7791,7 @@ pre code {
 }
 
 .hover\:text-neutral-2:hover {
-  color: #24eb53;
+  color: #243b53;
 }
 
 .hover\:text-neutral-3:hover {
@@ -8283,7 +8283,7 @@ pre code {
 }
 
 .focus\:text-neutral-2:focus {
-  color: #24eb53;
+  color: #243b53;
 }
 
 .focus\:text-neutral-3:focus {
@@ -9337,7 +9337,7 @@ pre code {
   }
 
   .sm\:bg-neutral-2 {
-    background-color: #24eb53;
+    background-color: #243b53;
   }
 
   .sm\:bg-neutral-3 {
@@ -9829,7 +9829,7 @@ pre code {
   }
 
   .sm\:hover\:bg-neutral-2:hover {
-    background-color: #24eb53;
+    background-color: #243b53;
   }
 
   .sm\:hover\:bg-neutral-3:hover {
@@ -10321,7 +10321,7 @@ pre code {
   }
 
   .sm\:focus\:bg-neutral-2:focus {
-    background-color: #24eb53;
+    background-color: #243b53;
   }
 
   .sm\:focus\:bg-neutral-3:focus {
@@ -10877,7 +10877,7 @@ pre code {
   }
 
   .sm\:border-neutral-2 {
-    border-color: #24eb53;
+    border-color: #243b53;
   }
 
   .sm\:border-neutral-3 {
@@ -11369,7 +11369,7 @@ pre code {
   }
 
   .sm\:hover\:border-neutral-2:hover {
-    border-color: #24eb53;
+    border-color: #243b53;
   }
 
   .sm\:hover\:border-neutral-3:hover {
@@ -11861,7 +11861,7 @@ pre code {
   }
 
   .sm\:focus\:border-neutral-2:focus {
-    border-color: #24eb53;
+    border-color: #243b53;
   }
 
   .sm\:focus\:border-neutral-3:focus {
@@ -15302,7 +15302,7 @@ pre code {
   }
 
   .sm\:text-neutral-2 {
-    color: #24eb53;
+    color: #243b53;
   }
 
   .sm\:text-neutral-3 {
@@ -15794,7 +15794,7 @@ pre code {
   }
 
   .sm\:hover\:text-neutral-2:hover {
-    color: #24eb53;
+    color: #243b53;
   }
 
   .sm\:hover\:text-neutral-3:hover {
@@ -16286,7 +16286,7 @@ pre code {
   }
 
   .sm\:focus\:text-neutral-2:focus {
-    color: #24eb53;
+    color: #243b53;
   }
 
   .sm\:focus\:text-neutral-3:focus {
@@ -17333,7 +17333,7 @@ pre code {
   }
 
   .md\:bg-neutral-2 {
-    background-color: #24eb53;
+    background-color: #243b53;
   }
 
   .md\:bg-neutral-3 {
@@ -17825,7 +17825,7 @@ pre code {
   }
 
   .md\:hover\:bg-neutral-2:hover {
-    background-color: #24eb53;
+    background-color: #243b53;
   }
 
   .md\:hover\:bg-neutral-3:hover {
@@ -18317,7 +18317,7 @@ pre code {
   }
 
   .md\:focus\:bg-neutral-2:focus {
-    background-color: #24eb53;
+    background-color: #243b53;
   }
 
   .md\:focus\:bg-neutral-3:focus {
@@ -18873,7 +18873,7 @@ pre code {
   }
 
   .md\:border-neutral-2 {
-    border-color: #24eb53;
+    border-color: #243b53;
   }
 
   .md\:border-neutral-3 {
@@ -19365,7 +19365,7 @@ pre code {
   }
 
   .md\:hover\:border-neutral-2:hover {
-    border-color: #24eb53;
+    border-color: #243b53;
   }
 
   .md\:hover\:border-neutral-3:hover {
@@ -19857,7 +19857,7 @@ pre code {
   }
 
   .md\:focus\:border-neutral-2:focus {
-    border-color: #24eb53;
+    border-color: #243b53;
   }
 
   .md\:focus\:border-neutral-3:focus {
@@ -23298,7 +23298,7 @@ pre code {
   }
 
   .md\:text-neutral-2 {
-    color: #24eb53;
+    color: #243b53;
   }
 
   .md\:text-neutral-3 {
@@ -23790,7 +23790,7 @@ pre code {
   }
 
   .md\:hover\:text-neutral-2:hover {
-    color: #24eb53;
+    color: #243b53;
   }
 
   .md\:hover\:text-neutral-3:hover {
@@ -24282,7 +24282,7 @@ pre code {
   }
 
   .md\:focus\:text-neutral-2:focus {
-    color: #24eb53;
+    color: #243b53;
   }
 
   .md\:focus\:text-neutral-3:focus {
@@ -25329,7 +25329,7 @@ pre code {
   }
 
   .lg\:bg-neutral-2 {
-    background-color: #24eb53;
+    background-color: #243b53;
   }
 
   .lg\:bg-neutral-3 {
@@ -25821,7 +25821,7 @@ pre code {
   }
 
   .lg\:hover\:bg-neutral-2:hover {
-    background-color: #24eb53;
+    background-color: #243b53;
   }
 
   .lg\:hover\:bg-neutral-3:hover {
@@ -26313,7 +26313,7 @@ pre code {
   }
 
   .lg\:focus\:bg-neutral-2:focus {
-    background-color: #24eb53;
+    background-color: #243b53;
   }
 
   .lg\:focus\:bg-neutral-3:focus {
@@ -26869,7 +26869,7 @@ pre code {
   }
 
   .lg\:border-neutral-2 {
-    border-color: #24eb53;
+    border-color: #243b53;
   }
 
   .lg\:border-neutral-3 {
@@ -27361,7 +27361,7 @@ pre code {
   }
 
   .lg\:hover\:border-neutral-2:hover {
-    border-color: #24eb53;
+    border-color: #243b53;
   }
 
   .lg\:hover\:border-neutral-3:hover {
@@ -27853,7 +27853,7 @@ pre code {
   }
 
   .lg\:focus\:border-neutral-2:focus {
-    border-color: #24eb53;
+    border-color: #243b53;
   }
 
   .lg\:focus\:border-neutral-3:focus {
@@ -31294,7 +31294,7 @@ pre code {
   }
 
   .lg\:text-neutral-2 {
-    color: #24eb53;
+    color: #243b53;
   }
 
   .lg\:text-neutral-3 {
@@ -31786,7 +31786,7 @@ pre code {
   }
 
   .lg\:hover\:text-neutral-2:hover {
-    color: #24eb53;
+    color: #243b53;
   }
 
   .lg\:hover\:text-neutral-3:hover {
@@ -32278,7 +32278,7 @@ pre code {
   }
 
   .lg\:focus\:text-neutral-2:focus {
-    color: #24eb53;
+    color: #243b53;
   }
 
   .lg\:focus\:text-neutral-3:focus {
@@ -33325,7 +33325,7 @@ pre code {
   }
 
   .xl\:bg-neutral-2 {
-    background-color: #24eb53;
+    background-color: #243b53;
   }
 
   .xl\:bg-neutral-3 {
@@ -33817,7 +33817,7 @@ pre code {
   }
 
   .xl\:hover\:bg-neutral-2:hover {
-    background-color: #24eb53;
+    background-color: #243b53;
   }
 
   .xl\:hover\:bg-neutral-3:hover {
@@ -34309,7 +34309,7 @@ pre code {
   }
 
   .xl\:focus\:bg-neutral-2:focus {
-    background-color: #24eb53;
+    background-color: #243b53;
   }
 
   .xl\:focus\:bg-neutral-3:focus {
@@ -34865,7 +34865,7 @@ pre code {
   }
 
   .xl\:border-neutral-2 {
-    border-color: #24eb53;
+    border-color: #243b53;
   }
 
   .xl\:border-neutral-3 {
@@ -35357,7 +35357,7 @@ pre code {
   }
 
   .xl\:hover\:border-neutral-2:hover {
-    border-color: #24eb53;
+    border-color: #243b53;
   }
 
   .xl\:hover\:border-neutral-3:hover {
@@ -35849,7 +35849,7 @@ pre code {
   }
 
   .xl\:focus\:border-neutral-2:focus {
-    border-color: #24eb53;
+    border-color: #243b53;
   }
 
   .xl\:focus\:border-neutral-3:focus {
@@ -39290,7 +39290,7 @@ pre code {
   }
 
   .xl\:text-neutral-2 {
-    color: #24eb53;
+    color: #243b53;
   }
 
   .xl\:text-neutral-3 {
@@ -39782,7 +39782,7 @@ pre code {
   }
 
   .xl\:hover\:text-neutral-2:hover {
-    color: #24eb53;
+    color: #243b53;
   }
 
   .xl\:hover\:text-neutral-3:hover {
@@ -40274,7 +40274,7 @@ pre code {
   }
 
   .xl\:focus\:text-neutral-2:focus {
-    color: #24eb53;
+    color: #243b53;
   }
 
   .xl\:focus\:text-neutral-3:focus {

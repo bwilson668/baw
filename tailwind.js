@@ -152,7 +152,7 @@ let colors = {
   'secondary-10': '#FFFBEA',
 
   'neutral-1': '#102A43',
-  'neutral-2': '#24EB53',
+  'neutral-2': '#243B53',
   'neutral-3': '#334E68',
   'neutral-4': '#486581',
   'neutral-5': '#627D98',
