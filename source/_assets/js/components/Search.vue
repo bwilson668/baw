@@ -57,7 +57,7 @@
         <button
             title="Start searching"
             type="button"
-            class="flex md:hidden bg-neutral-1 hover:bg-primary-10 justify-center items-center border border-grey rounded-full focus:outline-none h-10 px-3"
+            class="flex md:hidden bg-neutral-1 hover:bg-neutral-10 justify-center items-center border border-grey rounded-full focus:outline-none h-10 px-3"
             @click.prevent="showInput"
         >
             <img src="/assets/img/magnifying-glass.svg" alt="search icon" class="h-4 w-4 max-w-none">
@@ -107,7 +107,7 @@ input[name='search'] {
     background-image: url('/assets/img/magnifying-glass.svg');
     background-position: 0.8em;
     background-repeat: no-repeat;
-    border-radius: 25px;
+    border-radius: .5rem;
     text-indent: 1.2em;
 }
 
