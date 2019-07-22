@@ -4,8 +4,6 @@ section: content
 title: Configuring a time series database
 date: 2019-06-23
 description: Time series data is everywhere. Let's understand how to setup some infrastructure optimized for it.
-cover_image: 
-featured: false
 categories: []
 --- 
 
