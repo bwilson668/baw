@@ -4,6 +4,7 @@ window.Vue = require('vue');
 
 import vb from 'vue-babylonjs';
 import Animation from './components/Animation.vue';
+import D3HelloWorld from './components/D3HelloWorld.vue';
 import Search from './components/Search.vue';
 import hljs from 'highlight.js/lib/highlight';
 
@@ -34,7 +35,7 @@ new Vue({
 
 new Vue({
     components: {
-        Animation,
+        Animation, D3HelloWorld
     },
 }).$mount('#body')
 
